@@ -1,8 +1,5 @@
 # Movie-Genre-Prediction
 
-Predictive Analytics using Spark
-
-
 Using Spark Libraries to implement an end to end Predictive Analytics
 
 • Implemented Predictive Analytics using Apache Spark to predict the genre of the movie
